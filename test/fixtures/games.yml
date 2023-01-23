@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  naught_user_id: 1
+  cross_user_id: 1
+  winner_id: 1
+
+two:
+  naught_user_id: 1
+  cross_user_id: 1
+  winner_id: 1
